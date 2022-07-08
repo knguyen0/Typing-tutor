@@ -1,4 +1,4 @@
-/*kevin nguyen 020793105
+/*kevin nguyen
 * Virtual keyboard typing simulation
 * displays text on screen whilst highlighting keyboard presses*/
 import javax.swing.*;
